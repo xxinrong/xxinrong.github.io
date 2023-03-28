@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+h1{text-align: center}
+
+body{
+	background-color:beige
+}
+.p-color{
+	color:#092E99;
+	font-style: italic;
+}
+
+h3{
+    color:#008A51;
+	font-style:oblique;
+	text-decoration:underline;
+}
