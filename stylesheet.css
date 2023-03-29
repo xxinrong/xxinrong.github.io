@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 h1{text-align: center;
-	color: #092E99;
+	color:aliceblue;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
@@ -9,12 +9,16 @@ body{
 	background-color:beige
 }
 .p-color{
-	color:#092E99;
+	color:aliceblue;
 	font-style: italic;
 }
 
 h3{
-    color:#008A51;
+    color:lavender;
 	font-style:oblique;
 	text-decoration:underline;
+}
+
+p{
+	color:aliceblue
 }
