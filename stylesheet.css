@@ -1,6 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
-h1{text-align: center}
+h1{text-align: center;
+	color: #092E99;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
 
 body{
 	background-color:beige
