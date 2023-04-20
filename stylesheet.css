@@ -28,12 +28,12 @@ div#second{
 }
 
 div#third{
-	height:340px;
+	height:350px;
 	width:1000px;
 	background:#EDC5FF;
 	position: absolute;
 	left:20px;
-	top:270px;
+	top:300px;
 }
 div#fourth{
 	height: 265px;
@@ -41,13 +41,13 @@ div#fourth{
 	background:#EDC5FF;
 	position: absolute;
 	left:20px;
-	top:670px;
+	top:690px;
 }
 
 div#fifth{
 	position: absolute;
 	left:20px;
-	top:985px;
+	top:1000px;
 }
 
 
