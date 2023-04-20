@@ -28,7 +28,7 @@ div#second{
 }
 
 div#third{
-	height:365px;
+	height:350px;
 	width:1000px;
 	background:#EDC5FF;
 	position: absolute;
@@ -36,7 +36,7 @@ div#third{
 	top:270px;
 }
 div#fourth{
-	height: 285px;
+	height: 265px;
 	width:1000px;
 	background:#EDC5FF;
 	position: absolute;
@@ -47,7 +47,7 @@ div#fourth{
 div#fifth{
 	position: absolute;
 	left:20px;
-	top:1020px;
+	top:1000px;
 }
 
 
