@@ -28,7 +28,7 @@ div#second{
 }
 
 div#third{
-	height:350px;
+	height:340px;
 	width:1000px;
 	background:#EDC5FF;
 	position: absolute;
@@ -47,7 +47,7 @@ div#fourth{
 div#fifth{
 	position: absolute;
 	left:20px;
-	top:1000px;
+	top:970px;
 }
 
 
